@@ -29,12 +29,12 @@
                     </div>
                 </div>
                 <div class="project_bottom">
-                    <router-link href="https://www.behance.net/gallery/211787853/_" target="_blank">
+                    <a href="https://www.behance.net/gallery/211787853/_" target="_blank">
                         <button class="read">READ MORE</button>
-                    </router-link>
-                    <router-link href="https://tibamef2e.com/tid102/g2/" target="_blank">
+                    </a>
+                    <a href="https://tibamef2e.com/tid102/g2/" target="_blank">
                         <button class="visit">VISIT THE WEBSITE</button>
-                    </router-link>
+                    </a>
                 </div>
             </li>
             <li class="web_design_project" data-aos="fade-up" data-aos-duration="2000">
@@ -59,12 +59,12 @@
                     </div>
                 </div>
                 <div class="project_bottom">
-                    <router-link href="https://www.behance.net/gallery/211784603/_" target="_blank">
+                    <a href="https://www.behance.net/gallery/211784603/_" target="_blank">
                         <button class="read">READ MORE</button>
-                    </router-link>
-                    <router-link href="https://17-ching.github.io/cyanLightStudio/" target="_blank">
+                    </a>
+                    <a href="https://17-ching.github.io/cyanLightStudio/" target="_blank">
                         <button class="visit">VISIT THE WEBSITE</button>
-                    </router-link>
+                    </a>
                 </div>
             </li>
         </ul>
@@ -75,21 +75,21 @@
             <ul class="pratice_lists">
                 <li class="pratice_list">
                     <img src="../assets/images/webp03.jpg" alt="" class="pratice_photo">
-                    <router-link href="https://codepen.io/17-HUANG/pen/VYZPgOJ" target="_blank">
+                    <a href="https://codepen.io/17-HUANG/pen/VYZPgOJ" target="_blank">
                         <button class="pratice_name">CSS ANIMATION</button>
-                    </router-link>
+                    </a>
                 </li>
                 <li class="pratice_list">
                     <img src="../assets/images/webp04.jpg" alt="" class="pratice_photo">
-                    <router-link href="https://codepen.io/17-HUANG/pen/bNbeXME" target="_blank">
+                    <a href="https://codepen.io/17-HUANG/pen/bNbeXME" target="_blank">
                         <button class="pratice_name">Simple Quiz</button>
-                    </router-link>
+                    </a>
                 </li>
                 <li class="pratice_list">
                     <img src="../assets/images/webp05.jpg" alt="" class="pratice_photo">
-                    <router-link href="https://codepen.io/17-HUANG/pen/yyBrryG" target="_blank">
+                    <a href="https://codepen.io/17-HUANG/pen/yyBrryG" target="_blank">
                         <button class="pratice_name">Loading Page</button>
-                    </router-link>
+                    </a>
                 </li>
             </ul>
         </div>

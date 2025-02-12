@@ -23,15 +23,15 @@
                             <router-link to="/webdesign" class="portfolio_router">
                                 <li class="portfolio_list">WEB DESIGN</li>
                             </router-link>
-                            <router-link href="https://jean70212.wixsite.com/17huang/portfolio" target="_blank" class="portfolio_router">
+                            <a href="https://jean70212.wixsite.com/17huang/portfolio" target="_blank" class="portfolio_router">
                                 <li class="portfolio_list">VIDEO PRODUCTION</li>
-                            </router-link>
-                            <router-link href="https://www.behance.net/gallery/211780953/_" target="_blank" class="portfolio_router">
+                            </a>
+                            <a href="https://www.behance.net/gallery/211780953/_" target="_blank" class="portfolio_router">
                                 <li class="portfolio_list">GRAPHIC DESIGN</li>
-                            </router-link>
-                            <router-link href="https://jean70212.wixsite.com/17huang/%E5%89%AF%E6%9C%AC-%E5%B9%95%E5%BE%8C%E8%8A%B1%E7%B5%AE-%E6%B4%BB%E5%8B%95%E7%B4%80%E9%8C%84-behind-the-scenes" target="_blank" class="portfolio_router">
+                            </a>
+                            <a href="https://jean70212.wixsite.com/17huang/%E5%89%AF%E6%9C%AC-%E5%B9%95%E5%BE%8C%E8%8A%B1%E7%B5%AE-%E6%B4%BB%E5%8B%95%E7%B4%80%E9%8C%84-behind-the-scenes" target="_blank" class="portfolio_router">
                                 <li class="portfolio_list">PHOTOGRAPHY</li>
-                            </router-link>
+                            </a>
                         </ul>
                     </li>
                     <router-link to="/autobiography">
