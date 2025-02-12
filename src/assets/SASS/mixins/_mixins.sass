@@ -1,0 +1,21 @@
+
+@mixin size($w:$w , $h:$w)
+    width: $w
+    height: $h
+
+
+@mixin poab($t:initial,$r:initial,$b:initial,$l:initial)
+    position: absolute
+    top: $t
+    right: $r
+    bottom: $b
+    left: $l
+
+=flex ($j:center,$a:center)
+    display: flex
+    justify-content: $j
+    align-items: $a
+
+
+=bor
+  border: solid 2px black

@@ -1,0 +1,33 @@
+$pc-media:1024px;
+
+$pad-media:960px;
+
+$small-pad-media:760px;
+
+$phone-media:480px;
+
+
+    //電腦
+@mixin pc-width() { //1024
+      @media all and (max-width: $pc-media) {
+               @content;
+         }
+    }
+//平板
+ @mixin pad-width() { //960
+      @media all and (max-width: $pad-media) {
+                @content;
+          }
+}
+//小平板
+@mixin small-pad-width() { //760
+      @media all and  (max-width:$small-pad-media) {
+                @content;
+          }
+ }
+//手機
+ @mixin phone-width() { //480
+      @media all and (max-width: $phone-media) {
+                @content;
+          }
+ }
